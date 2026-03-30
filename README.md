@@ -4,6 +4,6 @@ i am interested in HCI, front-end design, networks and cloud services, and gener
 classroom experience w/ Java, Python, Git. personal experience w/ these, as well as HTML and CSS.
 
 to-do:
-- [] update profile layout
+- [x] update profile layout
 - [] parse wishlists for doable tasks
 - [] resume landing page/website
