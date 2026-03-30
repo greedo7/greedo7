@@ -1,6 +1,9 @@
-:3
+hello! i am a first-year in carleton's B.CS software eng stream!
 
-<!---
-greedo7/greedo7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+i am interested in HCI, front-end design, networks and cloud services, and generally just looking to dive into new fields of research to hone in on my skills.
+classroom experience w/ Java, Python, Git. personal experience w/ these, as well as HTML and CSS.
+
+to-do:
+- [] update profile layout
+- [] parse wishlists for doable tasks
+- [] resume landing page/website
