@@ -8,3 +8,4 @@ to-do:
 - [ ] parse wishlists for doable tasks
 - [ ] resume landing page/website
 - [ ] look for some certs to show skills
+- [ ] DO MY LEETCODE!
