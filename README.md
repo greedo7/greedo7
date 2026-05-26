@@ -7,5 +7,5 @@ to-do:
 - [ ] update profile layout
 - [ ] parse wishlists for doable tasks
 - [ ] resume landing page/website
-- [ ] look for some certs to show skills
+- [ ] look for some projects to show skills
 - [ ] DO MY LEETCODE!
